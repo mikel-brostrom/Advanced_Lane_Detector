@@ -1,6 +1,5 @@
 import cv2
 import os
-import math
 import numpy as np
 import matplotlib.pyplot as plt
 from shapely.geometry import box, Point
