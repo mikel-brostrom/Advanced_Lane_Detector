@@ -6,4 +6,4 @@ Based on:
  * https://navoshta.com/detecting-road-features/
  * https://github.com/ndrplz/self-driving-car/tree/master/project_4_advanced_lane_finding
  
- <img src="./output_images/test6.jpg" width="500" height="500">
+ <img src="./output_images/test6.jpg">
